@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+MICKEY+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TEAM+MICKEY+BOT!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg" alt="MKN BOTZ LOGO">
+  <img src="[https://telegra.ph/file/cf1a9362643ec3375589d.jpg](https://telegra.ph/file/3e93508cbc4114214bc0f.jpg)" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> MICKEY BOT</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/Professor-Bot?style=flat-square&color=yellow)](https://github.com/MrMKN/Professor-Bot/stargazers)
@@ -53,7 +53,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Professor-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammedshamil03/Mickey03)
 
 ## Commands
 ```
