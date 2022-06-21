@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/Abcdviahnibshsjsakakab/Mickey03",
+    "repository": "https://github.com/Abcdviahnibshsjsakakab/Mickey03.1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
