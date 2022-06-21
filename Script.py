@@ -1,11 +1,11 @@
 class script(object):
-    START_TXT = """👋 𝙷𝙴𝙻𝙾 {},
+    START_TXT = """👋 𝙷𝙴𝙻𝙾O {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>,\n 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽..."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ IAM JUST A  Auto-Filter-Bot {}
-➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 :<a href=https://t.me/vis_hnu_bot</a>
-➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : DQ3.5 
+➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : DQ3.5 Or Mr Eva 
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href=https://t.me/vis_hnu_bot>shamil_shaz_1</a>
 ➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : Everyone in this journey
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : 𝑷ʏʀᴏɢʀᴀᴍ 📜
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : 𝑷ʏᴛʜᴏɴ 3
