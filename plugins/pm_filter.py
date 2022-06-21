@@ -759,8 +759,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💥 𝙾𝚆𝙽𝙴𝚁 💥', url='https://t.me/shamil_shaz_1'), 
-            InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/mallumoviesmalayalam1')
+            InlineKeyboardButton('💥 𝙾𝚆𝙽𝙴𝚁 💥', url='https://t.me/vis_hnu_bot'), 
+            InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url='https://t.me/WATCHMOVIEOFFICIALV')
             ],[      
             InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', callback_data='help'),
             InlineKeyboardButton('💫 𝙰𝙱𝙾𝚄𝚃 💫', callback_data='about')
@@ -862,10 +862,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text="⦿"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿"
+            text="⦿⦿"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿⦿⦿⦿⦿"
+            text="⦿⦿⦿"
         )
         await query.message.edit_text(                     
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -884,10 +884,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text="⦿"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿"
+            text="⦿⦿"
         )
         await query.message.edit_text(
-            text="⦿⦿⦿⦿⦿⦿⦿"
+            text="⦿⦿⦿"
         ) 
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
