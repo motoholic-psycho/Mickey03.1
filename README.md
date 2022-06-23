@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+Mr Eva+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TEAM+WATCH_MOVIES™!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧+🤖!)</p>
+</p>
 <p align="center">
   <img src="[https://telegra.ph/file/590668c1bf0a3534e5889.jpg]" alt="WATCH MOVIES LOGO🔥">
 </p>
