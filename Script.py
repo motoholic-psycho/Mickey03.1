@@ -5,7 +5,7 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ IAM JUST A  Auto-Filter-Bot {}
 ➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝙈𝙧 𝙀𝙫𝙖
-➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/Vis_hnu_bot'>VISHNU 🕵️‍♂️</a>
+➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/_motoholic_psycho.'>MELBIN 🕵️‍♂️</a>
 ➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <code>𝑷ʏᴛʜᴏɴ 3</code>
